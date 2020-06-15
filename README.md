@@ -13,7 +13,8 @@ Elementos do Grupo:
 20687 Pedro Manuel Andrade Mariz Santiago;                                                                                             
 
 79142 Tomás Gargalo Silva Ferreira;
-----------------------------------------------------------
+
+
 #REQUISITO 1
 
 FUNCIONALIDADES: Foram implementados todos os pontos.Mas na alínea g) o menu "Covid Queries" não tem aplicação java integrar com a página.
